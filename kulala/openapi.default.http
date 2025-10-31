@@ -1,0 +1,13 @@
+### 
+
+@name = günther
+
+
+### 
+
+# Get a greeting
+# Get a greeting for a person by name.
+
+# @name get-greeting
+
+GET /greeting/{{name}} HTTP/1.1

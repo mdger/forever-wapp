@@ -1,0 +1,10 @@
+### 
+
+# After that call 'lua require("kulala").import("openapi")'
+
+GET /openapi.json HTTP/2
+
+>>! _openapi.json
+
+
+### 
